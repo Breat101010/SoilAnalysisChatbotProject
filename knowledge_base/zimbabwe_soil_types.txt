@@ -1,0 +1,30 @@
+---
+ZIMBABWE SOIL TYPES AND CHARACTERISTICS
+---
+
+Zimbabwe is endowed with a wide range of soils, varying in age, development, physical, chemical, and mineralogical composition, and thus, in their land use potential. Their distribution is closely related to geological materials, with variations also influenced by climate and topography.
+
+**General Soil Characteristics:**
+* **Smallholder Farming Areas:** Predominantly sandy to sandy loams.
+* **Former Commercial Farming Areas (Natural Region II):** Typically red clay loams.
+* **Valley Bottoms (e.g., vleis):** Humic soils.
+* **Semi-arid Areas:** Soils differ from those in higher rainfall areas and are inherently infertile, low in organic matter, have poor water-holding capacity, and are prone to degradation.
+
+**Common Soil Types/Groups based on Classification System:**
+* **Amormic Soils:** Little to no horizon development. Includes Regosols (deep sands) and Lithosols (relatively immature or shallow soil).
+* **Vertisols:** Characterized by high clay content (predominantly 2:1 montmorillonitic clay) and slickensides, often dark and derived from basalt.
+* **Ferrallitic Soils:** Usually high sand content, small amounts of 2:1 clay minerals, appreciable amounts of sesquioxides, with 1:1 clay minerals dominant.
+
+**Soil Composition and Parent Materials:**
+* **Siliceous sediments, volcanics, metasediments, metavolcanics:** Give rise to light to medium textured soils with significantly high silt content.
+* **Basalt:** Invariably gives rise to dark clayey soils.
+* **Granite and gneissic granite:** Lead to soils with coarse-grained sand fractions; clay content varies with weathering and catenal position.
+* **Kalahari Sands:** Unconsolidated fine to medium grained sand soils without weatherable minerals.
+* **Ultramafic rocks:** Invariably give rise to clayey soils where exchangeable Mg is greater than exchangeable Ca, and heavy metals (Ni, Cr) can be common.
+
+**Acidity/Salinity Indicators:**
+* **Weakly Sodic:** ESP within 80cm of surface from 10-15, conductivity < 4millisiemens/cm.
+* **Strongly Sodic:** ESP > 15, specific conductivity < 4millisiemens/cm.
+* **Saline Sodic:** ESP > 10 and specific conductivity > 4 millisiemens/cm.
+
+*Source: Mt Darwin DDC, ResearchGate (FAO 2006, Soil Fertility Status, Point of no return?), Knowledge Hub (Soil Classification System in Zimbabwe)*

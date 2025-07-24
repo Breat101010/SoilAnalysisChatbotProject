@@ -1,0 +1,53 @@
+---
+ZIMBABWE CROP NUTRIENT REQUIREMENTS AND FERTILIZATION
+---
+
+Understanding crop nutrient requirements is crucial for optimal yields, especially given the widespread soil fertility issues in Zimbabwe. Fertilization strategies involve balancing macronutrients, micronutrients, and organic amendments, often adapted to specific crop types and growth stages.
+
+**Essential Plant Nutrients:**
+* Plants require 16 chemical elements for growth and reproduction.
+* **Non-mineral elements (from air and water):** Carbon (C), Hydrogen (H), Oxygen (O) - used in large quantities.
+* **Mineral elements (from soil and fertilizer):**
+    * **Major Nutrients (Macronutrients - NPK):** Nitrogen (N), Phosphorus (P), Potassium (K). These are generally deficient in most African soils and needed in large quantities.
+    * **Secondary Nutrients (CMS):** Calcium (Ca), Magnesium (Mg), Sulphur (S).
+    * **Micronutrients (BCCIMMZ):** Boron (B), Chlorine (Cl), Copper (Cu), Iron (Fe), Manganese (Mn), Molybdenum (Mo), Zinc (Zn). Required in very small amounts, but lack can severely limit growth.
+
+**General Fertilizer Recommendations (Examples):**
+
+* **Maize:**
+    * Requires approx. 67 kg N/ha, 30 kg P2O5/ha, and 11 kg Ca/ha.
+    * Commonly uses Compound D (a basal blend of N, P, K) and AN (Ammonium Nitrate) as top-dressing.
+    * Typical application: 300 kg/ha of Compound D or Z at planting, 250 kg/ha AN split at 3 and 6 weeks after emergence (wae). Z-Compound once every three years.
+
+* **Soybeans:**
+    * Requires deep, fertile soil with high Ca. Thrives on light soils with sufficient nutrients.
+    * Removes approx. 60 kg N/ha, 35 kg P2O5/ha, and 80 kg K2O/ha.
+    * Recommended: 250 kg/ha of Compound L at planting. Inoculants (Rhizobium) are needed. Liberal phosphate application accelerates ripening.
+
+* **Groundnuts:**
+    * N-fixing crop.
+    * Recommended: 300 kg/ha of Compound L at planting and a top-dressing of gypsum (150 kg/ha) at pegging.
+
+* **Wheat:**
+    * Nitrogen application varies with expected yield (e.g., 15 kg N for 1000 kg/ha yield, up to 90 kg N for 3500 kg/ha yield).
+
+* **Cotton:**
+    * Commonly uses Compound L and AN.
+    * Typical: 300 kg/ha Compound L at planting, 200 kg/ha AN at 8 wae or flowering. Extra AN for irrigation.
+
+**Fertilizer Types and Application:**
+* **Basal Fertilizers:** Predominantly composed of N, P, K (phosphate and potash forms), often with added S, B, Cu, Mg, Mn, Zn.
+* **Top-Dressing Fertilizers:** Deliver desired nutrients later in the growing season (e.g., AN for nitrogen).
+* **Compound D:** Common basal blend.
+* **Compound L:** Another common basal blend.
+* **AN (Ammonium Nitrate):** Key nitrogen source for top-dressing.
+* **Gypsum:** Used for groundnuts.
+
+**Key Principles of Nutrient Management:**
+* **Soil Properties Influence Availability:** Clay content, organic matter, and pH significantly influence nutrient availability. Strategies are needed to keep nutrients continually available.
+* **Split Applications:** Applying fertilizers in splits (e.g., at different growth stages) ensures nutrients are available when the plant needs them most.
+* **Growth Stage Dependent:** Nutrient requirements change with plant growth stages (e.g., N for vegetative growth, K for fruit development). Planning application based on growth stages (e.g., BBCH-Scale) rather than just days after sowing is important.
+* **Organic Matter:** High organic matter content improves soil structure, supports microbial communities, and aids nutrient decay and availability.
+* **Liming:** Prompt correction of soil acidity by liming is essential as fertile soils are slightly acid to neutral for most crops.
+
+*Source: FAO, Kynoch Fertilizer, SSWM, Seed Co Group*

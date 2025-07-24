@@ -1,0 +1,41 @@
+---
+ZIMBABWE SOIL FERTILITY ISSUES
+---
+
+Soil fertility decline is a major constraint to sustainable crop production in Zimbabwe, particularly in communal and smallholder farming areas. This is exacerbated by climate change and conventional farming practices.
+
+**Primary Issues:**
+
+1.  **Inherently Infertile Soils:**
+    * Approximately 70% of arable land is covered by granite-derived sandy soils, which are naturally low in nutrients and highly susceptible to degradation.
+    * Soils in semi-arid regions are inherently infertile, low in organic matter, and have poor water-holding capacity.
+
+2.  **Nutrient Deficiencies:**
+    * **Widespread Deficiencies:** Very low levels of Nitrogen (N) (82% of soils) and marginal to deficient Phosphorus (P) (84% of soils) are common.
+    * **Other Deficiencies:** Sulphur (S) is also commonly deficient. At advanced stages of fertility depletion, deficiencies in Magnesium (Mg), Potassium (K), Zinc (Zn), and Copper (Cu) can also occur.
+    * **Micronutrients:** Many micronutrients are only required in small amounts, but their lack can severely limit crop growth and reduce yields.
+
+3.  **Soil Acidification and Aluminum Toxicity:**
+    * A significant proportion of soils (77%) require lime (pH [CaCl2] < 5.0) for most crops.
+    * Problems of potential Aluminum (Al) toxicity (pH [CaCl2] < 4.3) affect over 40% of soils. This can override benefits from N and other fertilizers.
+    * Causes of acidification include decreased manure use, virtually no use of lime, increasing use of acidifying chemical fertilizers, and leaching.
+
+4.  **Low Organic Matter Content:**
+    * Conversion of virgin sandy soils to permanent cultivation often leads to an exponential decline in organic matter.
+    * Low organic carbon in sandy soils makes them prone to nutrient leaching.
+    * This impacts soil structure, microbial health, and water retention.
+
+5.  **Limited Access to Organic Inputs:**
+    * Decline in livestock populations due to disease reduces access to cattle manure, a traditional source of organic nutrients.
+    * Locally derived fertilizers (e.g., leaf litter, termitaria) are often of low quality and declining availability, insufficient for modern crop growth requirements.
+    * High cost of mineral fertilizers pushes farmers to rely on often scarce and poor-quality organic resources.
+
+6.  **Inappropriate Tillage Practices:**
+    * Frequent and intensive turning of soil (traditional plowing) deprives soil of cover, increases soil moisture loss, and leads to erosion and nutrient run-off.
+    * Mono-cropping also strips the soil of nutrients.
+
+7.  **Impact of Degradation:**
+    * Soil degradation often manifests as non-responsiveness to mineral fertilizer addition, largely due to deterioration of chemical and biological properties.
+    * Most degraded soils are characterized by low organic matter and severe macro- and micronutrient deficiencies.
+    * Results in very low crop yields (often less than 1 ton/hectare for maize), contributing to food insecurity.
+    * Compounding issues include weed infestations (e.g., witchweed in maize plots).
