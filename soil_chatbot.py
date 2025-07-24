@@ -101,7 +101,6 @@ def generate_response(user_query, knowledge_base_content, history):
     model = genai.GenerativeModel(GeminiModel)
     chat = model.start_chat(history=history)
 
-    #AIzaSyApzLclrFG7OARGbDV_D4qXSUBJRNmdK3Y
 
     #Prompt with instructions and context...
     prompt = textwrap.dedent(f"""
